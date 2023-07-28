@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="searchBarCornerRadius">30dp</dimen>
+    <dimen name="recyclerview_dimen">16dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+</resources>
