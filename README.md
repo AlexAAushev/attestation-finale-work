@@ -55,3 +55,10 @@ Retrofit: Retrofit используется для сетевого взаимо
 Glide: Glide используется для эффективной загрузки изображений и кэширования, обеспечивая плавный и отзывчивый интерфейс при отображении изображений публикаций.
 Библиотека RecyclerView и Paging3: Приложение использует RecyclerView для эффективного отображения списка записей, обеспечивая плавную прокрутку и оптимизированное использование памяти.
 Компоненты архитектуры Android: Это приложение соответствует рекомендуемым принципам архитектуры Android, включая ViewModel, LiveData, Flow.
+
+## Демонстрация работы приложения:
+
+
+![XRecorder_Edited_16082023_104652](https://github.com/AlexAAushev/attestation-finale-work/assets/126689986/41de486a-940a-42ae-a949-dbf5f249cf3d)  ![XRecorder_Edited_16082023_105255](https://github.com/AlexAAushev/attestation-finale-work/assets/126689986/10fd0ab6-fad2-467a-b61f-a34716018723)
+
+![XRecorder_Edited_16082023_111912](https://github.com/AlexAAushev/attestation-finale-work/assets/126689986/5ef40ef5-6d81-494a-bb18-7ed5c11d6c5f)
